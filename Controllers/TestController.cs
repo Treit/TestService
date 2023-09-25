@@ -19,8 +19,7 @@ namespace Test
 
         public TestController(
             ILogger<TestController> logger,
-            IServiceCollection collection,
-            BackGroundWorker worker)
+            IServiceCollection collection)
         {
             _logger = logger;
             _serviceCollection = collection;
@@ -30,6 +29,7 @@ namespace Test
         [HttpPost]
         public TestResponse Post(TestRequest request)
         {
+            _logger.LogInformation("{requestInput}", request.Input);
             return new TestResponse(request.Input.ToUpperInvariant());
         }
     }

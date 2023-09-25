@@ -51,7 +51,7 @@ namespace Test
             while (true && !stoppingToken.IsCancellationRequested)
             {
                 i++;
-                if (i > 30)
+                if (i > 500)
                 {
                     _lifetime.StopApplication();
                 }
