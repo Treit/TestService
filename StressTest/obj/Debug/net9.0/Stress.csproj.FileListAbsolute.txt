@@ -1,0 +1,15 @@
+C:\src\github\Treit\TestService\StressTest\bin\Debug\net9.0\Stress.exe
+C:\src\github\Treit\TestService\StressTest\bin\Debug\net9.0\Stress.deps.json
+C:\src\github\Treit\TestService\StressTest\bin\Debug\net9.0\Stress.runtimeconfig.json
+C:\src\github\Treit\TestService\StressTest\bin\Debug\net9.0\Stress.dll
+C:\src\github\Treit\TestService\StressTest\bin\Debug\net9.0\Stress.pdb
+C:\src\github\Treit\TestService\StressTest\obj\Debug\net9.0\Stress.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\github\Treit\TestService\StressTest\obj\Debug\net9.0\Stress.AssemblyInfoInputs.cache
+C:\src\github\Treit\TestService\StressTest\obj\Debug\net9.0\Stress.AssemblyInfo.cs
+C:\src\github\Treit\TestService\StressTest\obj\Debug\net9.0\Stress.csproj.CoreCompileInputs.cache
+C:\src\github\Treit\TestService\StressTest\obj\Debug\net9.0\Stress.sourcelink.json
+C:\src\github\Treit\TestService\StressTest\obj\Debug\net9.0\Stress.dll
+C:\src\github\Treit\TestService\StressTest\obj\Debug\net9.0\refint\Stress.dll
+C:\src\github\Treit\TestService\StressTest\obj\Debug\net9.0\Stress.pdb
+C:\src\github\Treit\TestService\StressTest\obj\Debug\net9.0\Stress.genruntimeconfig.cache
+C:\src\github\Treit\TestService\StressTest\obj\Debug\net9.0\ref\Stress.dll
