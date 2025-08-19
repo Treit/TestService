@@ -84,7 +84,7 @@ namespace Test
             AddHttpClients(services);
             services.AddSingleton(services);
             services.AddHostedService<BackGroundWorker>();
-            services.AddHostedService<LifetimeMonitor>();
+            //services.AddHostedService<LifetimeMonitor>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment _)
